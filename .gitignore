@@ -133,3 +133,4 @@ build/
 config.local.js
  
 /docs
+/prints

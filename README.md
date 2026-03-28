@@ -114,7 +114,7 @@ Para executar o projeto em ambiente local, siga os passos abaixo.
  
    ```bash
 
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/dashenio/portfolio_.git
 
    ```
  
@@ -122,7 +122,7 @@ Para executar o projeto em ambiente local, siga os passos abaixo.
  
    ```bash
 
-   cd seu-repositorio
+   cd portfolio_
 
    ```
  
@@ -142,9 +142,9 @@ O site será aberto no navegador e todas as alterações poderão ser visualizad
  
 ## Deploy
  
-Este site está disponível publicamente através do **GitHub Pages**. Você pode acessar a versão online pelo link abaixo:
+Este site está disponível publicamente através do **Netlify**. Você pode acessar a versão online pelo link abaixo:
  
-🔗 https://github.com/dashenio
+🔗 https://vivian-rodrigues-portfolio.netlify.app/
  
 ------
  

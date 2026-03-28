@@ -144,7 +144,7 @@ O site será aberto no navegador e todas as alterações poderão ser visualizad
  
 Este site está disponível publicamente através do **Netlify**. Você pode acessar a versão online pelo link abaixo:
  
-🔗 https://vivian-rodrigues-portfolio.netlify.app/
+🔗 https://dashenio.github.io/portfolio/index.html
  
 ------
  
